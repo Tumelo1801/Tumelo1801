@@ -64,6 +64,7 @@ Repository: https://github.com/Tumelo1801/community-connect
 
 ### SafeCircle - GBV Emergency Support App
 **Business analysis and solution design project**
+**Repository:** https://github.com/Tumelo1801/SafeCircle-GBV-Support-App
 
 **Role:** Project Lead & Systems Designer (Group Project - 2nd Year)
 
