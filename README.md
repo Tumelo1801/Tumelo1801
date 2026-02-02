@@ -84,6 +84,7 @@ Identified inefficiencies in manual booking processes
 Designed role-based access control system
 Implemented transparent approval workflow with mandatory feedback
 Created inspection system for facility maintenance tracking
+
 ---
 ### SafeCircle - GBV Emergency Support App
 **Business analysis and solution design project**
