@@ -61,7 +61,30 @@ Repository: https://github.com/Tumelo1801/community-connect
 - Created data model supporting future analytics
 
 ---
+### Municipal Assets Management System
+**Repository:** https://github.com/Tumelo1801/Municipal-Assets-System
 
+Comprehensive web-based application for managing municipal facilities, bookings, and inspections
+
+**Business Value**
+Streamlines facility booking and approval processes
+Provides transparency in municipal operations
+Tracks facility condition and maintenance needs
+Generates insights through analytics and reporting
+
+**Technical Implementation**
+
+Backend: ASP.NET Core 8, Entity Framework Core, SQLite
+Frontend: React 18, Recharts, Axios
+Features: Facility management, public booking system, admin approval workflow, post-event inspections, analytics dashboard
+
+**Systems Analysis Approach**
+
+Identified inefficiencies in manual booking processes
+Designed role-based access control system
+Implemented transparent approval workflow with mandatory feedback
+Created inspection system for facility maintenance tracking
+---
 ### SafeCircle - GBV Emergency Support App
 **Business analysis and solution design project**
 **Repository:** https://github.com/Tumelo1801/SafeCircle-GBV-Support-App
@@ -99,11 +122,6 @@ Team: SafeTech Solutions (3 members)
 **Academic Progress**  
 Final year student at North-West University (NWU), pursuing BSc in Information Technology. Expected graduation: 2027.
 
-**Current Project: Municipal Assets Management System**  
-Building a desktop application for efficient municipal asset tracking. Implementing comprehensive CRUD operations and reporting features while applying systems analysis principles to improve operational efficiency.
-
-Tech Stack: C# | SQLite | .NET WinForms
-
 **Continuous Learning**
 - Advanced business analysis and requirements documentation
 - Database-driven application development
@@ -116,9 +134,9 @@ Tech Stack: C# | SQLite | .NET WinForms
 
 **Email:** tumitumelo1801@gmail.com  
 **Portfolio:** https://community-connect-bice-three.vercel.app  
-**LinkedIn:** (add when ready)
+**LinkedIn:** www.linkedin.com/in/tumelo-seleka
 
 ---
 
-I am open to internships, graduate programs, and entry-level roles related to Business Analysis, Systems Analysis, and IT.## Hi there 👋
+I am open to internships, graduate programs, and entry-level roles related to Business Analysis, System and Software Development, and IT.## Hi there 👋
 
