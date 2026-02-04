@@ -33,6 +33,13 @@ SQLite | SQL Server | PostgreSQL
 Data Structures and Algorithms | CRUD Operations | System Design | RESTful APIs | Problem Solving | User-Centered Design
 
 ---
+##  Portfolio
+
+**[View My Portfolio Website](https://portfolio-rho-rosy-36.vercel.app/)**
+
+Check out my featured projects, and skills!
+
+---
 
 ## Featured Projects
 
